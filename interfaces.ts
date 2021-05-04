@@ -15,3 +15,5 @@ export interface Client {
     responsibleEmployeeId: number;
     client(feedback: string): void;
 }
+
+//im in the web!
